@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.maheevil.wherestuff.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "DeathScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
